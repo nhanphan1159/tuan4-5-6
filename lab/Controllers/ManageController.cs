@@ -7,6 +7,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using lab4_5_6.Models;
+using Fluent.Infrastructure.FluentStartup;
 
 namespace lab4_5_6.Controllers
 {
